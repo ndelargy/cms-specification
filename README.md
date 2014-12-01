@@ -34,7 +34,7 @@ e.g. A [Website](#website) Interface may share [Page](#page) Resources and it's 
 
 An Interface Resource must as a minimum requirement define a type and provide a name/alias to associate with that type. e.g. Type: Website, Alias: www.mysite.com
 
-["There can only be one"](https://www.google.co.uk/search?q=there+can+only+be+one&oq=there+can+only+be+one) Interface Resource [Type](#interface-type) per [Owner](#owner) and these will be selected from a pre-defined collection.
+["There can only be one"](https://www.google.co.uk/search?q=there+can+only+be+one&oq=there+can+only+be+one) [Interface Type Resource](#interface-type) per [Owner](#owner) and these will be selected from a pre-defined collection.
 ### Interface Type
 ### Page
 ### Content Block
